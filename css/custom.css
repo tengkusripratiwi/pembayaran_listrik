@@ -1,0 +1,28 @@
+.header{
+	height: 100px;
+	background: lightblue;	
+}
+
+.logo{
+	padding-top: 10px;
+	font-weight: bold
+}
+
+.navigation{
+	background: #343A40;
+}
+
+.content{
+	min-height: 400px;
+}
+
+.label{
+	font-weight: bold;
+	padding-top:10px;
+	margin-bottom: 30px;
+}
+
+.footer{
+	padding: 15px;
+	background: lightblue;	
+}
